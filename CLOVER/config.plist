@@ -257,55 +257,8 @@
 	</dict>
 	<key>GUI</key>
 	<dict>
-		<key>Custom</key>
-		<dict>
-			<key>Entries</key>
-			<array>
-				<dict>
-					<key>Disabled</key>
-					<false/>
-					<key>FullTitle</key>
-					<string>Monterey</string>
-					<key>Hotkey</key>
-					<string>1</string>
-					<key>NoCaches</key>
-					<false/>
-					<key>Path</key>
-					<string>\A884E45A-788D-4094-9D18-9DBB15B90C7D\System\Library\CoreServices\boot.efi</string>
-					<key>Type</key>
-					<string>OSX</string>
-					<key>Volume</key>
-					<string>E4B7A7A3-795D-443D-A44A-323AFA9499B9</string>
-					<key>VolumeType</key>
-					<string>Internal</string>
-				</dict>
-				<dict>
-					<key>Disabled</key>
-					<false/>
-					<key>FullTitle</key>
-					<string>Win11</string>
-					<key>Hotkey</key>
-					<string>2</string>
-					<key>Path</key>
-					<string>\EFI\microsoft\Boot\bootmgfw.efi</string>
-					<key>Type</key>
-					<string>Windows</string>
-					<key>Volume</key>
-					<string>B2C97A60-D656-4E73-A379-3E30CCD1589D</string>
-					<key>VolumeType</key>
-					<array>
-						<string>Internal</string>
-						<string>External</string>
-					</array>
-				</dict>
-			</array>
-		</dict>
 		<key>CustomIcons</key>
 		<false/>
-		<key>Hide</key>
-		<array>
-			<string>Recovery</string>
-		</array>
 		<key>Mouse</key>
 		<dict>
 			<key>Enabled</key>
@@ -446,8 +399,6 @@
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
-		<key>InjectKexts</key>
-		<false/>
 		<key>InjectSystemID</key>
 		<true/>
 	</dict>
