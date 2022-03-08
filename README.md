@@ -9,3 +9,4 @@
 - 另外多系统的话要要切换的macos要完全关机再切换，要不然触摸板无法识别。
 
 ## 当前CLOVER版本5145
+- 教你如何定义新版clover启动项 https://www.mruru.cn/archives/clover-configboot.html
