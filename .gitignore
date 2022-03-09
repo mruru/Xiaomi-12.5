@@ -1,2 +1,3 @@
-#无用文件
-.DS_Store
+.gitinore
+.DS-Store
+
