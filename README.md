@@ -12,3 +12,8 @@
 
 ## 当前CLOVER版本5145
 - 教你如何定义新版clover启动项 https://www.mruru.cn/archives/clover-configboot.html
+
+## 屏蔽I2C驱动升级
+由于这个触摸板型号的特殊性，不能升级触摸板i2c驱动超过2.60版本，要不然就移动速度很慢，或者睡眠丢失触摸板。
+可以通过修改I2C驱动里的plist文件版本号忽略hackintool的内核扩展升级提示。
+例如把2.6改为2.8.(当前最新为2.7)
